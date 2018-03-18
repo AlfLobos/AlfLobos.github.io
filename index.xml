@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>alfonsolobos.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="alfonsolobos.com/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising</title>
+      <link>alfonsolobos.com/publication/fwfm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/publication/fwfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising</title>
+      <link>alfonsolobos.com/publication/profit/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/publication/profit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intertemporal stochastic sawmill planning: Modeling and managerial insights</title>
+      <link>alfonsolobos.com/publication/mscthesis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/publication/mscthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A DDDAMS-based planning and control framework for surveillance and crowd control via UAVs and UGVs</title>
+      <link>alfonsolobos.com/publication/ari_1/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/publication/ari_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent-based hardware-in-the-loop simulation for UAV/UGV surveillance and crowd control system</title>
+      <link>alfonsolobos.com/publication/ari_2/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/publication/ari_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

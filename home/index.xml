@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on </title>
+    <link>alfonsolobos.com/home/</link>
+    <description>Recent content in Homes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="alfonsolobos.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>alfonsolobos.com/home/about/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/home/about/</guid>
+      <description>Biography I&amp;rsquo;m a third year PhD student in Industrial Engineering and Operations Research (IEOR) at University of California, Berkeley under the supervision of Professor Paul Grigas. My research interests include Machine Learning, First Order Methods, and lately I have been working in application in Online Advertisement.
+Areas which I find of great interest is the application of First Order Methods to big data, primal-dual methods, Distributionally Robust Optimization, and WGANs.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>alfonsolobos.com/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Older Publications</title>
+      <link>alfonsolobos.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>alfonsolobos.com/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>alfonsolobos.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>alfonsolobos.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>alfonsolobos.com/home/teaching/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/home/teaching/</guid>
+      <description>I have been a Graduate Student Instructor (Teaching Assistant) at Berkeley of:
+ IEOR 240: Optimization Analytics (Fall 2016, 2017). IEOR 290: Modern Optimization for Statistical Learning (Spring 2017, now).  I have just received from my department the 2018 Outstanding Graduate Student Instructor Award.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>alfonsolobos.com/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>alfonsolobos.com/home/contact/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>alfonsolobos.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
